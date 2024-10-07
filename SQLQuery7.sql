@@ -8,7 +8,7 @@
 
 --exec Test
 
-------------advance eg
+------------advance example
 
 
 --Create Procedure BAMP
