@@ -8,9 +8,8 @@ FROM PRACTICE.dbo.EmployeeDemographics
 
 --question
 --CEO want to raise salary of employees based on their 
---job tiltle i.e sales will get 10% salary raised and accountant
--- will gain 5% salary raised meanwhile hr will gain 50 cents 
---salary raise (I hate HRS  )
+--job tiltle i.e employees in sales dep will have 10% raise in their salary and employees in accounts department
+-- will have 5%  raise in their salary meanwhile hr will get 50 cents increment (I hate HRS  )
 
 SELECT EmployeeDemographics.EmployeeID,FirstName,
 LastName,JobTitle,Salary ,
